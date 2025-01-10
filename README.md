@@ -10,3 +10,8 @@
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunKyu00)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunKyu00)](https://github.com/anuraghazra/github-readme-stats)
