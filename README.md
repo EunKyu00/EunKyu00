@@ -2,6 +2,7 @@
 <br>
 <img src="https://github.com/user-attachments/assets/f2ca4fe2-2173-43d3-84f4-1ddc9e1ac5ce" width="200" height="200">
 <br>
+---
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
